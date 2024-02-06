@@ -1,0 +1,25 @@
+ingilizce Açıklaması:
+
+Smart Fraud Detection System Design using ML and DL.
+
+
+
+Türkçesi:
+
+
+Buluş Başlığı:HİZMET SAĞLAYICI SERVİSLERDE DOLANDIRICILIK TESPİTİ İÇİN BİR SİSTEM VE YÖNTEM
+
+Buluş Özeti:Bu buluş, hizmet sağlayıcı servislerde önceden sahtecilik/dolandırıcılık yaptığı doğrulanmış aboneleri kullanarak bir veri modeli oluşturup çevrimiçi çalışan bir
+ hizmet sağlayıcı birimle (2) sorgulayan ve makine öğrenme teknikleriyle sahtecilik /dolandırıcılık tespit eden bir sistem (1) ve yöntem (100) ile ilgilidir.
+
+
+Kişi No:6539674
+İsim:ONUR TÜFEKÇİOĞLU
+
+Başvuru Numarası:2017/21525
+
+
+https://www.turkpatent.gov.tr/arastirma-yap?form=patent  
+
+
+Adresinden direkt Başvuru numarası ile sorgulayabilirsin.

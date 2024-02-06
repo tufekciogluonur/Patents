@@ -1,0 +1,25 @@
+ingilizce Açıklaması:
+
+Smart Billing Control System Design Using ML and DL.
+
+
+
+Türkçesi:
+
+
+Buluş Başlığı:ÜCRETLENDİRME HATALARININ TESPİTİ İÇİN BİR SİSTEM
+
+Buluş Özeti:Bu buluş, mobil iletişim şebekesi operatörlerinin aboneleri için geçmişte gerçekleşmiş olan ücretlendirme hatalarından 
+yola çıkılarak yeni ücretlendirme kayıtlarının hatalı olup olmadığı konusunda bir karar verilmesini ve böylece ücretlendirme hatalarının tespit edilebilmesini sağlayan bir sistem ile ilgilidir.
+
+
+Kişi No:6539674
+İsim:ONUR TÜFEKÇİOĞLU
+
+Başvuru Numarası:2017/20732
+
+
+https://www.turkpatent.gov.tr/arastirma-yap?form=patent  
+
+
+Adresinden direkt Başvuru numarası ile sorgulayabilirsin.
