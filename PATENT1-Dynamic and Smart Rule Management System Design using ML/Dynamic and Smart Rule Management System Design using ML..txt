@@ -1,0 +1,26 @@
+ingilizce Açıklaması:
+
+Dynamic and Smart Rule Management System Design using ML.
+
+
+
+Türkçesi:
+
+
+Buluş Başlığı:KURAL YÖNETİMİ VE OPTİMİZASYONU İÇİN BİR SİSTEM
+
+Buluş Özeti:Bu buluş, kural bazlı aksiyon alınan durumlarda kuralların ürettiği alarmların, anlık artış ve azalış trendlerini CDR (Call Detail Record ? Çağrı Detay Kaydı) 
+akışı ve kural yönetim birimleri ile koordineli bir şekilde tespit ederek bilgilendirme ve kural kapatma aksiyonlarını alan akıllı ve dinamik bir kural yönetim ve optimizasyon sistemi (1) 
+ile ilgilidir.
+
+
+Kişi No:6539674
+İsim:ONUR TÜFEKÇİOĞLU
+
+Başvuru Numarası:2017/20770
+
+
+https://www.turkpatent.gov.tr/arastirma-yap?form=patent  
+
+
+Adresinden direkt Başvuru numarası ile sorgulayabilirsin.
